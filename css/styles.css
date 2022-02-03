@@ -85,7 +85,6 @@ body {
 /* Section */
 
 .section-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
   text-align: center;
@@ -93,7 +92,6 @@ body {
 
 /* Benefits */
 .benefits-subtitle {
-  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
