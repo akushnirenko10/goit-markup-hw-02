@@ -47,7 +47,7 @@ body {
 .site-nav-link {
   color: var(--primary-color);
 }
-.auth-nav-link {
+.contacts-link {
   color: var(--secondary-color);
 }
 
@@ -55,8 +55,8 @@ body {
 .site-nav-link.current,
 .site-nav-link:hover,
 .site-nav-link:focus,
-.auth-nav-link:hover,
-.auth-nav-link:focus,
+.contacts-link:hover,
+.contacts-link:focus,
 .footer-link:hover,
 .footer-link:focus {
   color: var(--accent-color);
